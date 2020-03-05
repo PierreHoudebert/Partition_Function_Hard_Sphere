@@ -6,7 +6,9 @@ by Pierre Houdebert
 This simple code compute the partition function of the continuum hard-sphere model. A formal definition of this model can be found for instance in 
 
 Christoph Hofer-Temmel, Disagreement percolation for the hard-sphere model
+
 https://arxiv.org/abs/1507.02521
+
 https://projecteuclid.org/euclid.ejp/1568080871
 
 the parameters are
